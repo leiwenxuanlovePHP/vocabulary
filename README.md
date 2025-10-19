@@ -9,7 +9,7 @@
 ## 怎么用？
 ### 下载：
 ```bash
-git clone https://github.com/leiwenxaunlovePHP/vocabulary
+git clone https://github.com/leiwenxaunlovePHP/vocabulary.git
 cd vocabulary
 ```
 ### 运行：
@@ -30,4 +30,5 @@ python vocabulary.py
 再点`开始听写`来做题，正确率会统计显示出来
 
 ---
+
 好吃o
